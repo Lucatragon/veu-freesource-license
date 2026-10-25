@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 VEU FREE SOURCE LICENSE (VFL2)
-Version 2.0 (Oct 2026)
+Version 2.1 (Oct 2026)
 Version 1.1 was AZGLv1.1. Both are related.
 The following LICENSE updated 13 Oct 2026 UTC | The current README updated sameday
 ----------------------------------------------------------------------------------
@@ -151,7 +151,22 @@ download limits. That is fine - that is not forced on every user, but traffic.
 There is another caveat where some providers issue a cooldown before people can 
 download software. AZGL licensed software should not be on these providers, as the
 AZGL sees providers who issue cooldowns on every user as limiting the user, or the
-learner.
+learner. You must give full and undisputed access to reverse engineer, reverse source, 
+decompile, recompile, rename, resell, monetize, and own your work provided they change 
+the name of the work, they do not have the ability to consider your work theirs, however
+if they change a line of code or implement a new feature (as examples), rename, 
+optionally relicense, and optionally resell their owned work, that is perfectly allowed. 
+
+6.3bii. You have made a new programming language named Gecko and you sell the engine in 
+this licence. Nobody is allowed to take Gecko as is and resell it as their own, and
+claim they made it, however they are allowed to rename it Chameleon, change execution 
+logic and some syntax, and call that their own. They have full rights to Chameleon and
+you do not, but they have no rights to Gecko. You still do have those rights. If Chameleon 
+gets copied, renamed Iguana, change syntax, and add French compatibility, so long as this 
+licence is in play, Iguana is legal, Gecko has no control or rights over Iguana or Chameleon, 
+and Chameleon has no control or rights overof Gecko or Iguana. If you update Chameleon, 
+and Iguana in response gets an update in their community to update, and they do, that is 
+in no way illegal to this licence.
 
 6.3c Forcing this License. We understand that not everybody wants this license. 
 This is fine. Just remove it or change it, and don't copy us. Rename your license
