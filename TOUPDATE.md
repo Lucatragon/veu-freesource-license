@@ -1,7 +1,9 @@
-AZIF
-AZE
-Azerola
-AS
+image foundary
+demeteria
+merane
+cataclysm (until release)
+acerola
+remote
 
 If the README needs the license, do not forget to update the README!
 
