@@ -13,6 +13,21 @@ extensive freedoms to modify, decompile, and remix works, provided that the
 licensee complies with strict accessibility requirements and trademark 
 limitations defined below.
 
+DEVELOPER'S DISCLAIMER
+----------------------------------------------------------------------------------
+I, the developer, am allowed to alter the list selection below. This list selection
+contains the disclaimer that files may or may not have the VFL license whether any
+version at all. Mark your selection with either an O or an X.
+
+( ) I declare that all of the code inside of this folder has been licensed VFL, and
+    I also declare that none of the code or assets have been licensed otherwise.
+( ) I declare that some of the code inside of this folder has been licensed VFL, and
+    I also declare I have informed everyone that some assets might not have VFL by
+    including the other licenses. If it is not made apparent the other licenses have
+    taken over that asset, it has been licensed VFL.
+( ) I declare that only the code inside of this folder has been licensed VFL, and 
+    the code inside of folders in this folder has not been licensed VFL, and the
+    license to the material inside of folders in this folder has been included.
 
 SECTION 1: DEFINITIONS
 ----------------------------------------------------------------------------------
@@ -85,6 +100,30 @@ good-faith requirements of this License and shall not host VFL2 materials.
 platforms such as social media, web search engines, proprietary websites, or 
 integrated digital networks, where the material inherently cannot be accessed 
 outside of that specific network environment. See [Section 6.3](https://github.com/Lucatragon/VFL#6.3b-Intention-and-the) for more details.
+
+4.4 Attribution. Attribution is NOT REQUIRED. That is what separates this license
+from limited licenses such as MIT, LGPL, and Apache, that all require attribution.
+IT IS NOT REQUIRED. Requiring it in your application to attribute you for your work
+makes your license VOID, UNUSEABLE, and CANNOT BE ENFORCED as it is not a true-to-the-
+art free source license. 
+
+4.5 Free as in Will. You have the freedom to do a lot of things in this license.
+Anybody who licenses material in this license format legally voids all rights to IP, 
+copyright, protect, or disallow the tampering of such files this license would be applied
+to. The solution to this is to not license any clearly IP-protected material under VFL. 
+This includes logos you own, including company logos and application logos, and protected
+assets such as characters. 
+
+4.5b The informality of the above:
+If you license ANY material under the VFL, whether any version at all, you are telling
+the audience whether that be consumers, customers, or any of those whom does not
+immediately apply to, that they have legal permission to decompile, decode, decrypt,
+alter, tamper with, toy with, recompile, inject, recode, or any other action to what-
+ever software or piece of material that is licensed VFL. Using this license, you agree
+that if you do not want to have some code readibly and fully accessable, like server code
+or logic for things such as online multiplayer character movement, you have full legal
+right to license that code or material any other license, and you also have permission
+to license it as VFL if you so see fit.
 
 
 SECTION 5: TRADEMARK, INTELLECTUAL PROPERTY, AND NAMING RULES
