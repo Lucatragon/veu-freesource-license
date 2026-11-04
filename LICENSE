@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------------------
 VEU FREE SOURCE LICENSE (VFL2)
-Version 2.1 (Oct 2026)
+Version 2.2 (Nov 2026)
 Version 1.1 was AZGLv1.1. Both are related.
-The following LICENSE updated 13 Oct 2026 UTC | The current README updated sameday
+The following LICENSE updated 04 Nov 2026 UTC | The current README updated sameday
 ----------------------------------------------------------------------------------
 PREAMBLE
 ----------------------------------------------------------------------------------
@@ -12,6 +12,22 @@ VFL2 are expressly designated as Public Learning Material. This license grants
 extensive freedoms to modify, decompile, and remix works, provided that the 
 licensee complies with strict accessibility requirements and trademark 
 limitations defined below.
+
+This license is most commercially like Creative Commons Zero 1.0 (CC0 1.0), however
+VFL and AZGL have an extra clause, saying that you cannot imply that your work, 
+whether it is in good deed, bad deed, or an act or word of God, is the original 
+developer's work. Your work is your own, and the original developer's work has been
+made Public Domain for you to continue their work for any reason. You are simply not
+allowed to call their work yours, and you are not allowed to call your work theirs.
+
+The difference between Free Source and Open Source is that Open Source is Open to the
+Public. Free Source means you typically have freedom to do whatever you wish. This
+makes MIT, Apache, and BSD, and other licenses Open Source by this definition, and
+Creative Commons Zero 1.0 is seen as Free Source. There are other licenses that are
+seen by Veu as Limited Source licenses, where the license creator typically limits
+users' rights such as the right to distribute without the same license, the right to
+commercialize added work, and the right to be able to add revisions if say the 
+original work piece has a few glitches on your hardware that they do not wish to fix.
 
 SECTION 0: DEVELOPER'S DISCLAIMER
 ----------------------------------------------------------------------------------
