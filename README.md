@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 ## VEU FREE SOURCE LICENSE (VFL2)
 #### Version 2.2 (NovOct 2026)
-> The following LICENSE updated 04 Nov 2026 UTC | The current README updated 09 Nov 2026
+> The following LICENSE updated 09 Nov 2026 UTC | The current README updated 09 Nov 2026
 ----------------------------------------------------------------------------------
 
 PREAMBLE
