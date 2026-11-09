@@ -1,8 +1,9 @@
 ----------------------------------------------------------------------------------
 ## VEU FREE SOURCE LICENSE (VFL2)
-#### Version 2.1 (Oct 2026)
-> The following LICENSE updated 13 Oct 2026 UTC | The current README updated sameday
+#### Version 2.2 (NovOct 2026)
+> The following LICENSE updated 04 Nov 2026 UTC | The current README updated 09 Nov 2026
 ----------------------------------------------------------------------------------
+
 PREAMBLE
 ----------------------------------------------------------------------------------
 This Veu Free Source License ("VFL2") is established to foster a shared,
@@ -12,6 +13,41 @@ extensive freedoms to modify, decompile, and remix works, provided that the
 licensee complies with strict accessibility requirements and trademark 
 limitations defined below.
 
+This license is most commercially like Creative Commons Zero 1.0 (CC0 1.0), however
+VFL and AZGL have an extra clause, saying that you cannot imply that your work, 
+whether it is in good deed, bad deed, or an act or word of God, is the original 
+developer's work. Your work is your own, and the original developer's work has been
+made Public Domain and Public Learning Material for you to continue their work 
+for any reason. You are simply not allowed to call their work yours, and you are 
+not allowed to call your work theirs.
+
+The difference between Free Source and Open Source is that Open Source is Open to the
+Public. Free Source means you typically have freedom to do whatever you wish. This
+makes MIT, Apache, and BSD, and other licenses Open Source by this definition, and
+Creative Commons Zero 1.0 is seen as Free Source. There are other licenses that are
+seen by Veu as Limited Source licenses, where the license creator typically limits
+users' rights such as the right to distribute without the same license, the right to
+commercialize added work, and the right to be able to add revisions if say the 
+original work piece has a few glitches on your hardware that they do not wish to fix.
+
+SECTION 0: DEVELOPER'S DISCLAIMER
+----------------------------------------------------------------------------------
+I, the developer of the project that has been licensed VFL, am allowed to alter the 
+list selection below. This list selection contains the disclaimer that files may or 
+may not have the VFL license whether any version at all. Mark your selection with 
+either an O or an X.
+
+( ) I declare that all of the code inside of this folder has been licensed VFL, and
+    I also declare that none of the code or assets have been licensed otherwise.
+    
+( ) I declare that some of the code inside of this folder has been licensed VFL, and
+    I also declare I have informed everyone that some assets might not have VFL by
+    including the other licenses. If it is not made apparent the other licenses have
+    taken over that asset, it has been licensed VFL.
+    
+( ) I declare that only the code inside of this folder has been licensed VFL, and 
+    the code inside of folders in this folder has not been licensed VFL, and the
+    license to the material inside of folders in this folder has been included.
 
 SECTION 1: DEFINITIONS
 ----------------------------------------------------------------------------------
@@ -32,6 +68,7 @@ As used in this License, the following terms have the specific meanings:
       https://github.com/Lucatragon/message/blob/main/contacts.txt
 * "VFL2" means "the latest version of VFL2.x." 
 * "AZGLv1" means "the latest version of AZGLv1.x", aka the old v1 of this license.
+
 
 
 SECTION 2: WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
@@ -69,6 +106,14 @@ past, present, or future derivative works. You claim exclusive authorship over
 your reworked version, and you are not required to include this License in your 
 redistributed Remix, although it is fully permitted to do so.
 
+3.4 Disclaimer on Public Domain. By all technicality this license holds, if you
+remix a material that uses VFL in any way that material is at least partially 
+public domain, which leaves the hands of the community and is now authored by
+you. A good example is if a Spreadsheet template was made public domain, if
+you remix that Spreadsheet template and it was VFL, and you want to sell the
+template, you can, but at the same time it doesn't remove the older copy from
+public domain.
+
 
 SECTION 4: ACCESS RESTRICTIONS AND MANDATORY FREEDOMS
 ----------------------------------------------------------------------------------
@@ -84,6 +129,32 @@ good-faith requirements of this License and shall not host VFL2 materials.
 platforms such as social media, web search engines, proprietary websites, or 
 integrated digital networks, where the material inherently cannot be accessed 
 outside of that specific network environment. See [Section 6.3](https://github.com/Lucatragon/VFL#6.3b-Intention-and-the) for more details.
+
+4.4 Attribution. Attribution is NOT REQUIRED. That is what separates this license
+from limited licenses such as MIT, LGPL, and Apache, that all require attribution.
+IT IS NOT REQUIRED. Requiring it in your application to attribute you for your work
+makes your license VOID, UNUSEABLE, and CANNOT BE ENFORCED as it is not a true-to-the-
+art free source license. 
+
+4.5 Free as in Will. You have the freedom to do a lot of things in this license.
+Anybody who licenses material in this license format legally voids all rights to IP, 
+copyright, protect, or disallow the tampering of such files this license would be applied
+to. The solution to this is to not license any clearly IP-protected material under VFL. 
+This includes logos you own, including company logos and application logos, and protected
+assets such as characters. If you license material in this license, it counts as public
+learning material and is considered public domain. Free as in the ability to Learn. 
+Free as in Will. Free as in Freedom.
+
+4.5b The informality of the above:
+If you license ANY material under the VFL, whether any version at all, you are telling
+the audience whether that be consumers, customers, or any of those whom does not
+immediately apply to, that they have legal permission to decompile, decode, decrypt,
+alter, tamper with, toy with, recompile, inject, recode, or any other action to what-
+ever software or piece of material that is licensed VFL. Using this license, you agree
+that if you do not want to have some code readibly and fully accessable, like server code
+or logic for things such as online multiplayer character movement, you have full legal
+right to license that code or material any other license, and you also have permission
+to license it as VFL if you so see fit.
 
 
 SECTION 5: TRADEMARK, INTELLECTUAL PROPERTY, AND NAMING RULES
@@ -107,9 +178,10 @@ license. That is reserved for the VFL2 and its future partings.
 imply connection to the Veu intellectual property if otherwise. Prohibited names 
 include, but are not limited to:
   * Veu
-  * Demeteria
-  * Enigmania
-  * Renvictoria
+  * Demira
+  * Kiri
+  * Enigma
+  * Merane
 
 5.3 Permitted Critique Names. You are explicitly permitted to reference the 
 original brand name if your project title is structured as a critique or review. 
@@ -132,7 +204,9 @@ provided you follow the rules and stay in the scope of VFL.
 to the public and be classified as technical learning material. Therefore, declaration
 is required when applying the VFL or AZGL license family.
 
-6.3 Declaration. See [Section 3](https://github.com/Lucatragon/AZGL#section-3-public-learning-material--usage-rights) for more details, however this is a more official 
+6.3 Declaration. See 
+[Section 3](https://github.com/Lucatragon/VFL#section-3-public-learning-material--usage-rights) 
+for more details, however this is a more official 
 "what happens" when media is licensed VFL.
 
 6.3a. Media licensed under VFL and AZGL is required free for all students, required free 
@@ -173,7 +247,6 @@ and rename your entity so it isn't associated with us. That is it.
 and still be perfectly fine. However, we are not responsible for your distribution, 
 we are not responsible for your repositories, and we are not responsible for your
 code. That is all. Have fun, good luck.
-
 
 ----------------------------------------------------------------------------------
 #### [END OF LICENSE TERMS]
