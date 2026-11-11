@@ -1,9 +1,10 @@
 ----------------------------------------------------------------------------------
-## VEU FREE SOURCE LICENSE (VFL2)
-#### Version 2.2 (NovOct 2026)
-> The following LICENSE updated 09 Nov 2026 UTC | The current README updated sameday.
+### VEU FREE SOURCE LICENSE (VFL2)
+#### Version 2.3 (Nov 2026)
+#### Version 1.1 was AZGLv1.1. Both are related.
+#### The following LICENSE updated 11 Nov 2026 UTC
+#### The current README updated 09 Nov 2026 UTC.
 ----------------------------------------------------------------------------------
-
 PREAMBLE
 ----------------------------------------------------------------------------------
 This Veu Free Source License ("VFL2") is established to foster a shared,
@@ -30,6 +31,7 @@ users' rights such as the right to distribute without the same license, the righ
 commercialize added work, and the right to be able to add revisions if say the 
 original work piece has a few glitches on your hardware that they do not wish to fix.
 
+
 SECTION 0: DEVELOPER'S DISCLAIMER
 ----------------------------------------------------------------------------------
 I, the developer of the project that has been licensed VFL, am allowed to alter the 
@@ -48,6 +50,7 @@ either an O or an X.
 ( ) I declare that only the code inside of this folder has been licensed VFL, and 
     the code inside of folders in this folder has not been licensed VFL, and the
     license to the material inside of folders in this folder has been included.
+    
 
 SECTION 1: DEFINITIONS
 ----------------------------------------------------------------------------------
@@ -68,7 +71,6 @@ As used in this License, the following terms have the specific meanings:
       https://github.com/Lucatragon/message/blob/main/contacts.txt
 * "VFL2" means "the latest version of VFL2.x." 
 * "AZGLv1" means "the latest version of AZGLv1.x", aka the old v1 of this license.
-
 
 
 SECTION 2: WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
@@ -104,7 +106,9 @@ to compilers or imaging software), the resulting work is legally considered
 authored by YOU alone. This License does not attach to or force itself upon your 
 past, present, or future derivative works. You claim exclusive authorship over 
 your reworked version, and you are not required to include this License in your 
-redistributed Remix, although it is fully permitted to do so.
+redistributed Remix, although it is fully permitted to do so. If you do license
+your work as VFL, please note that it does fall under restrictions set in this
+license with no exception.
 
 3.4 Disclaimer on Public Domain. By all technicality this license holds, if you
 remix a material that uses VFL in any way that material is at least partially 
@@ -119,7 +123,10 @@ SECTION 4: ACCESS RESTRICTIONS AND MANDATORY FREEDOMS
 ----------------------------------------------------------------------------------
 4.1 Zero Restriction Policy. Any Software or Media distributed under the VFL2 
 must remain entirely free of access barriers. You shall not place the Media behind 
-paywalls, ad-walls, registration prompts, or any other limitations. 
+paywalls, ad-walls, registration prompts, or any other limitations. Exceptions to
+this are not permitted under the VFL license, however you are allowed and encouraged
+to fork this repository, or download this code, and relicense it if you see fit, 
+which legally allows you to sell software such as this for a profit.
 
 4.2 Platform Compliance. Hosting platforms that enforce anti-spam cooldowns, 
 mandatory delays, or download restrictions (such as SourceForge) fail the 
@@ -134,7 +141,8 @@ outside of that specific network environment. See [Section 6.3](https://github.c
 from limited licenses such as MIT, LGPL, and Apache, that all require attribution.
 IT IS NOT REQUIRED. Requiring it in your application to attribute you for your work
 makes your license VOID, UNUSEABLE, and CANNOT BE ENFORCED as it is not a true-to-the-
-art free source license. 
+art free source license. If you would like to require attribution, simply choose a
+different license, you are more than welcome to choose another license.
 
 4.5 Free as in Will. You have the freedom to do a lot of things in this license.
 Anybody who licenses material in this license format legally voids all rights to IP, 
@@ -155,6 +163,13 @@ that if you do not want to have some code readibly and fully accessable, like se
 or logic for things such as online multiplayer character movement, you have full legal
 right to license that code or material any other license, and you also have permission
 to license it as VFL if you so see fit.
+
+4.6 Funding, donations and paywalling. Your project is allowed to be funded as a not-
+for-profit project under the VFL license. Donations are more than permitted, however
+you must not paywall media licensed under VFL. The solution to this if you do wish
+to paywall media such as this, is to fork or clone this license and change the clauses
+that say you cannot paywall it to that you can, or you may choose a different license 
+for your newly authored material as explained by sections 3.3 and 3.4.
 
 
 SECTION 5: TRADEMARK, INTELLECTUAL PROPERTY, AND NAMING RULES
@@ -195,6 +210,7 @@ deriviation either by the name taste or by the logo not actually being Veu's.
 then it is not related to us. This does not include changes that would appear 
 similar to the original copy, which is up for interpretation at our discretion.)
 
+
 SECTION 6: INTENTION, AND VALUE, SUMMARY AND THE INFORMAL
 ----------------------------------------------------------------------------------
 6.1 Free Reign. You are permitted to do virtually whatever you wish to this software
@@ -220,13 +236,16 @@ You must allow anybody and everybody to access this content regardless of any so
 of limitation that may exist. There is a caveat where some providers might issue
 download limits. That is fine - that is not forced on every user, but traffic. 
 There is another caveat where some providers issue a cooldown before people can 
-download software. AZGL licensed software should not be on these providers, as the
-AZGL sees providers who issue cooldowns on every user as limiting the user, or the
+download software. AZGL licensed software should not be on these providers, as the VFL
+and AZGL see providers who issue cooldowns on every user as limiting the user, or the
 learner. You must give full and undisputed access to reverse engineer, reverse source, 
 decompile, recompile, rename, resell, monetize, and own your work provided they change 
 the name of the work, they do not have the ability to consider your work theirs, however
 if they change a line of code or implement a new feature (as examples), rename, 
 optionally relicense, and optionally resell their owned work, that is perfectly allowed. 
+The only exception to the above in this subsection is that your material is not actually
+licensed under VFL or AZGL, in which case you are right now looking at a license that 
+does not suit your needs.
 
 6.3bii. You have made a new programming language named Gecko and you sell the engine in 
 this licence. Nobody is allowed to take Gecko as is and resell it as their own, and
@@ -249,5 +268,5 @@ we are not responsible for your repositories, and we are not responsible for you
 code. That is all. Have fun, good luck.
 
 ----------------------------------------------------------------------------------
-#### [END OF LICENSE TERMS]
+[END OF LICENSE TERMS]
 ==================================================================================
